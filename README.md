@@ -1,8 +1,8 @@
 # AI-QUANTA
-R codes for Early detection of pancreatic ductal adenocarcinoma by AI-QUANTA, a quantum dot assay for nanoscale tracking analysis
+R codes for Early detection of pancreatic ductal adenocarcinoma by AI-QUANTA, a quantum dot assay for nanolens technology-based assay
 
 ## Paper Title
-Early detection of pancreatic ductal adenocarcinoma by AI-QUANTA, a quantum dot assay for nanoscale tracking analysis
+Early detection of pancreatic ductal adenocarcinoma by AI-QUANTA, a quantum dot assay for nanolens technology-based assay
 
 ## Authors
 Han-Joo Bae, Minsup Shin, Hyunjoo Lee, Jun-Sik Chu, Kwanghee Yoo, Sohyeon Jang, Yuna Youn, Jaehyun An, Jin-Hyeok Hwang, Jaehi Kim,* Jong-chan Lee,* Luke P. Lee,* and Bong-Hyun Jun*
